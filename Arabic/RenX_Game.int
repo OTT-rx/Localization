@@ -201,8 +201,8 @@ ItemName="قنبلة إمب"
 PickupMessage="قنبلة إمب"
 
 [Rx_Weapon_RepairTool]
-ItemName="أداة تصليح"
-PickupMessage="أداة تصليح"
+ItemName="أداة إصلاح"
+PickupMessage="أداة إصلاح"
 
 [Rx_Weapon_SmokeGrenade]
 ItemName="قنبلة دخّانيّة"
@@ -282,7 +282,7 @@ PT_Description="درع: كيفلر/سرعة: 100/جانبي: مسدّس كاتم
 [Rx_FamilyInfo_GDI_Engineer]
 CharacterName="مهندس"
 PT_Title="مهندس"
-PT_Description="درع: فلاك/سرعة: 95/جانبي: مسدّس كاتم/متفجّرة عن بعد/+مضاض-للأبنية/+تصليح/مساعد"
+PT_Description="درع: فلاك/سرعة: 95/جانبي: مسدّس كاتم/متفجّرة عن بعد/+مضاض-للأبنية/+إصلاح/مساعد"
 
 [Rx_FamilyInfo_GDI_Officer]
 CharacterName="ضابط"
@@ -332,7 +332,7 @@ PT_Description="درع: كيفلر/سرعة: 100/جانبي: مسدّس ثقيل
 [Rx_FamilyInfo_GDI_Hotwire]
 CharacterName="هوتواير"
 PT_Title="هوتواير"
-PT_Description="درع: فلاك/سرعة: 100/جانبي: مسدّس كاتم/متفجرة عن بعد/ألغام/+مضاض-أبنية/+تصليح/مساعد"
+PT_Description="درع: فلاك/سرعة: 100/جانبي: مسدّس كاتم/متفجرة عن بعد/ألغام/+مضاض-أبنية/+إصلاح/مساعد"
 
 //GDI Hero Units
 [Rx_FamilyInfo_GDI_Sydney_Suit]
@@ -348,8 +348,8 @@ PT_Title="جندي"
 PT_Description="درع: كيفلر/سرعة: 100/جانبي: مسدّس كاتم/+مضاض-للمشاة"
 
 [Rx_FamilyInfo_Nod_Shotgunner]
-CharacterName="Shotgunner"
-PT_Title="SHOTGUNNER"
+CharacterName="جندي البندقيّة"
+PT_Title="جندي البندقيّة"
 PT_Description="درع: كيفلر/سرعة: 100/جانبي: مسدّس كاتم/+مضاض-للمشاة"
 
 [Rx_FamilyInfo_Nod_FlameTrooper]
@@ -365,7 +365,7 @@ PT_Description="درع: كيفلر/سرعة: 100/جانبي: مسدّس كاتم
 [Rx_FamilyInfo_Nod_Engineer]
 CharacterName="مهندس"
 PT_Title="مهندس"
-PT_Description="درع: فلاك/سرعة: 95/جانبي: مسدّس كاتم/متفجّرة عن بعد/+مضاض-للأبنية/+تصليح/مساعد"
+PT_Description="درع: فلاك/سرعة: 95/جانبي: مسدّس كاتم/متفجّرة عن بعد/+مضاض-للأبنية/+إصلاح/مساعد"
 
 [Rx_FamilyInfo_Nod_Officer]
 CharacterName="ضابط"
@@ -415,7 +415,7 @@ PT_Description="درع: كيفلر/سرعة: 100/جانبي: مسدّس ثقيل
 [Rx_FamilyInfo_Nod_Technician]
 CharacterName="تقني"
 PT_Title="تقني"
-PT_Description="درع: فلاك/سرعة: 100/جانبي: مسدّس كاتم/متفجّرة عن بعد/ألغام/+مضاض-للأبنية/+تصليح/مساعد"
+PT_Description="درع: فلاك/سرعة: 100/جانبي: مسدّس كاتم/متفجّرة عن بعد/ألغام/+مضاض-للأبنية/+إصلاح/مساعد"
 
 //Nod Hero Units 
 [Rx_FamilyInfo_Nod_Raveshaw_Mutant]
@@ -428,492 +428,492 @@ PT_Description="درع: فلاك /سرعة: 95/جانبي: بندقيّة تاي
 //	Vehicles
 //=====================================
 [Rx_Vehicle]
-VehiclePositionString="in a Vehicle"
-VehicleNameString="Vehicle"
+VehiclePositionString="في مركبة"
+VehicleNameString="مركبة"
 
 [Rx_Vehicle_Treaded]
-VehiclePositionString="in a Tank"
-VehicleNameString="Tank"
+VehiclePositionString="في دبّابة"
+VehicleNameString="دبّابة"
 
 [Rx_Vehicle_MammothTank]
-VehiclePositionString="in a Mammoth Tank"
-VehicleNameString="Mammoth Tank"
-PT_Title="MAMMOTH TANK"
-PT_Description="<font size='10'>-2x 120mm Cannons\n-4x Tusk Missiles\n-Heavy Armour\n-Heavy Battle Tank\n-Driver + Passenger</font>"
+VehiclePositionString="في دبّابة الماموث"
+VehicleNameString="دبّابة الماموث"
+PT_Title="دبّابة الماموث"
+PT_Description="<font size='10'>-2x 120mm مدافع\n-4x صواريخ النّاب\n-درع ثقيل\n-دبّابة معارك ثقيلة\n-سائق + راكب</font>"
 
 [Rx_Vehicle_MediumTank]
-VehiclePositionString="in a Medium Tank"
-VehicleNameString="Medium Tank"
-PT_Title="MEDIUM TANK"
-PT_Description="<font size='10'>-105mm Cannon\n-Heavy Armour\n-Main Battle Tank\n-Driver + Passenger</font>"
+VehiclePositionString="في دبّابة متوسّطة"
+VehicleNameString="دبّابة متوسّطة"
+PT_Title="دبّابة متوسّطة"
+PT_Description="<font size='10'>-105mm مدفع\n-درع ثقيل\n-دبّابة المعارك الرّئيسية\n-سائق + راكب</font>"
 
 [Rx_Vehicle_Chinook]
-VehiclePositionString="in a Chinook"
-VehicleNameString="Chinook"
-PT_Title="TRANSPORT HELICOPTER"
-PT_Description="<font size='10'>\n-2x Gattling Guns\n-Light Armour\n-Troop Transport\n-Pilot + 4 Passengers</font>"
+VehiclePositionString="في تشينوك"
+VehicleNameString="تشينوك"
+PT_Title="مروحيّة تشينوك"
+PT_Description="<font size='10'>\n-2x مدفع رشّاش\n-درع خفيف\n-ناقلة جنود\n-طيّار + 4 ركّاب</font>"
 
 [Rx_Vehicle_APC_Nod]
-VehiclePositionString="in an APC"
-VehicleNameString="APC"
-PT_Title="ARMOURED PERSONNEL CARRIER"
-PT_Description="<font size='10'>-M134 Minigun\n-Heavy Armour\n-Troop Transport\n-Driver + 4 Passengers</font>"
+VehiclePositionString="في ن.ج.م"
+VehicleNameString="ن.ج.م"
+PT_Title="ناقلة جنود مدرّعة"
+PT_Description="<font size='10'>-M134 الرّشاش الصغير\n-درع ثقيل\n-ناقلة جنود\n-سائق + 4 ركّاب</font>"
 
 [Rx_Vehicle_APC_GDI]
-VehiclePositionString="in an APC"
-VehicleNameString="APC"
-PT_Title="ARMOURED PERSONNEL CARRIER"
-PT_Description="<font size='10'>-M134 Minigun\n-Heavy Armour\n-Troop Transport\n-Driver + 4 Passengers</font>"
+VehiclePositionString="في ن.ج.م"
+VehicleNameString="ن.ج.م"
+PT_Title="ناقلة جنود مدرّعة"
+PT_Description="<font size='10'>-M134 الرّشاش الصغير\n-درع ثقيل\n-ناقلة جنود\n-سائق + 4 ركّاب</font>"
 
 [Rx_Vehicle_Buggy]
-VehiclePositionString="in a Buggy"
-VehicleNameString="Buggy"
-PT_Title="BUGGY"
-PT_Description="<font size='10'>-.50 Calibre Machine Gun\n-Light Armour\n-Fast Attack Scout\n-Driver + Passenger</font>"
+VehiclePositionString="في عربة"
+VehicleNameString="عربة"
+PT_Title="عربة"
+PT_Description="<font size='10'>-.50 رشّاش عيار\n-درع خفيف\n-كشّاف هجومي سريع\n-سائق + راكب</font>"
 
 [Rx_Vehicle_HoverCraft]
-VehiclePositionString="in a HoverCraft"
-VehicleNameString="Hover Craft"
+VehiclePositionString="في حوّامة"
+VehicleNameString="حوّامة"
 
 [Rx_Vehicle_Humvee]
-VehiclePositionString="in a Humvee"
-VehicleNameString="Humvee"
-PT_Title="HUMVEE"
-PT_Description="<font size='10'>-.50 Calibre Machine Gun\n-Light Armour\n-Fast Attack Scout\n-Driver + Passenger</font>"
+VehiclePositionString="في همفي"
+VehicleNameString="همفي"
+PT_Title="همفي"
+PT_Description="<font size='10'>-.50 رشّاش عيار\n-درع خفيف\n-كشّاف هجومي سريع\n-سائق + راكب</font>"
 
 [Rx_Vehicle_MRLS]
-VehiclePositionString="in a MRLS"
-VehicleNameString="MRLS"
-PT_Title="MOBILE ROCKET LAUNCHER SYSTEM"
-PT_Description="<font size='10'>-M269 Missiles\n-Light Armour\n-Long Range Ballistics\n-Driver + Passenger</font>"
+VehiclePositionString="في ن.ق.ص.م"
+VehicleNameString="ن.ق.ص.م"
+PT_Title="نظام قاذفة صواريخ متعدّدة"
+PT_Description="<font size='10'>-M269 صواريخ\n-درع خفيف\n-مقذوفات بعيدة المدى\n-سائق + راكب</font>"
 
 [Rx_Vehicle_LightTank]
-VehiclePositionString="in a Light Tank"
-VehicleNameString="Light Tank"
-PT_Title="LIGHT TANK"
-PT_Description="<font size='10'>\n-75mm Cannon\n-Heavy Armour\n-Main Battle Tank\n-Driver + Passenger</font>"
+VehiclePositionString="في دبّابة خفيفة"
+VehicleNameString="دبّابة خفيفة"
+PT_Title="دبّابة خفيفة"
+PT_Description="<font size='10'>\n-75mm مدفع\n-درع ثقيل\n-دبّابة المعارك الرّئيسية\n-سائق + راكب</font>"
 
 [Rx_Vehicle_Artillery]
-VehiclePositionString="in an Artillery"
-VehicleNameString="Artillery"
-PT_Title="MOBILE ARTILLERY"
-PT_Description="<font size='10'>\n-155mm Howitzer\n-Light Armour\n-Long Range Ballistics\n-Driver + Passenger</font>"
+VehiclePositionString="في مدفعيّة متحرّكة"
+VehicleNameString="مدفعيّة متحرّكة"
+PT_Title="مدفعيّة متحرّكة"
+PT_Description="<font size='10'>\n-155mm هاوتزر\n-درع خفيف\n-مقذوفات بعيدة المدى\n-سائق + راكب</font>"
 
 [Rx_Vehicle_FlameTank]
-VehiclePositionString="in a Flame Tank"
-VehicleNameString="Flame Tank"
-PT_Title="FLAME TANK"
-PT_Description="<font size='10'>\n-2x Flame Throwers\n-Heavy Armour\n-Close Range Suppressor\n-Driver + Passenger</font>"
+VehiclePositionString="في دبّابة اللّهب"
+VehicleNameString="دبّابة اللّهب"
+PT_Title="دبّابة اللّهب"
+PT_Description="<font size='10'>\n-2x قاذفات اللّهب\n-درع ثقيل\n-قامع المسافات القصيرة\n-سائق + راكب</font>"
 
 [Rx_Vehicle_StealthTank]
-VehiclePositionString="in a Stealth Tank"
-VehicleNameString="Stealth Tank"
-PT_Title="STEALTH TANK"
-PT_Description="<font size='10'>-2x TOW Missiles\n-Heavy Armour\n-Guerilla Combat Vehicle\n-Active Camouflage\n-DriveOnly</font>"
+VehiclePositionString="في دبّابة خفيّة"
+VehicleNameString="دبّابة خفيّة"
+PT_Title="دبّابة خفيّة"
+PT_Description="<font size='10'>-2x صواريخ تاو\n-درع ثقيل\n-مركبة قتال العصابات\n-تمويه نشط\n-سائق فقط</font>"
 
 [Rx_Defence_GunEmplacement]
-VehiclePositionString="in a Gun Emplacement"
-VehicleNameString="Gun Emplacement"
+VehiclePositionString="في المدفع المرتكز"
+VehicleNameString="المدفع المرتكز"
 
 [Rx_Defence_RocketEmplacement]
-VehiclePositionString="in a Rocket Emplacement"
-VehicleNameString="Rocket Emplacement"
+VehiclePositionString="في الصّواريخ المرتكزة"
+VehicleNameString="الصّواريخ المرتكزة"
 
 [Rx_Vehicle_A10]
-VehiclePositionString="in an A-10"
-VehicleNameString="A-10"
+VehiclePositionString="في أ-10"
+VehicleNameString="أ-10"
 
 [Rx_Vehicle_Apache]
-VehiclePositionString="in an Apache"
-VehicleNameString="Apache"
-PT_Title="APACHE"
-PT_Description="<font size='10'>-30mm Auto-Cannon\n-Hydra-70 Rockets\n-Light Armour\n-Attack Helocopter\n-Pilot Only</font>"
+VehiclePositionString="في أباتشي"
+VehicleNameString="أباتشي"
+PT_Title="أباتشي"
+PT_Description="<font size='10'>-30mm مدفع أوتوماتيكي\n-صواريخ هايدرا-70\n-درع خفيف\n-مروحيّة هجوميّة\n-طيّار و راكب</font>"
 
 [Rx_Vehicle_Orca]
-VehiclePositionString="in an Orca"
-VehicleNameString="Orca"
-PT_Title="ORCA FIGHTER"
-PT_Description="<font size='10'>-Hellfire Missiles\n-.50 Calibre Machine Gun\n-Light Armour\n-Attack VTOL\n-Pilot and Passenger</font>"
+VehiclePositionString="في أوركا"
+VehicleNameString="أوركا"
+PT_Title="مقاتلة أوركا"
+PT_Description="<font size='10'>-صواريخ نيران الجحيم\n-.50 رشّاش عيار\n-درع خفيف\n-إ.ه.ع هجومي\n-طيّار و راكب</font>"
 
 [Rx_Vehicle_Harvester]
-VehiclePositionString="in a Harvester"
-VehicleNameString="Harvester"
+VehiclePositionString="في حصّادة"
+VehicleNameString="حصّادة"
 
 [Rx_Vehicle_HoverCraft_GDI]
-VehiclePositionString="in a Hovercraft"
-VehicleNameString="Hovercraft"
+VehiclePositionString="في حوّامة"
+VehicleNameString="حوّامة"
 
 [Rx_Vehicle_HoverCraft_Nod]
-VehiclePositionString="in a Hovercraft"
-VehicleNameString="Hovercraft"
+VehiclePositionString="في حوّامة"
+VehicleNameString="حوّامة"
 
 [Rx_Vehicle_Bus]
-VehiclePositionString="in a Bus"
-VehicleNameString="Bus"
+VehiclePositionString="في باص"
+VehicleNameString="باص"
 
 [Rx_Defence_GuardTower]
-VehiclePositionString="in a Guard Tower"
-VehicleNameString="Guard Tower"
+VehiclePositionString="في برج الحراسة"
+VehicleNameString="برج الحراسة"
 
 [Rx_Defence_Turret]
-VehiclePositionString="in a Turret"
-VehicleNameString="Turret"
+VehiclePositionString="في برج مدفعي"
+VehicleNameString="برج مدفعي"
 
 [Rx_Defence_AATower]
-VehiclePositionString="in an Anti-Air Tower"
-VehicleNameString="Anti-Air Tower"
+VehiclePositionString="في برج مضاض-للطّيران"
+VehicleNameString="برج مضاض-للطّيران"
 
 [Rx_Defence_SAMSite]
-VehiclePositionString="in a SAM Site"
-VehicleNameString="SAM Site"
+VehiclePositionString="في مركز ص.أ.ج"
+VehicleNameString="مركز ص.أ.ج"
 
 [Rx_Vehicle_MG_GDI]
-VehiclePositionString="in a .50 Cal"
-VehicleNameString=".50 Cal"
+VehiclePositionString="قي .50 كال"
+VehicleNameString=".50 كال"
 
 [APB_Vehicle_TeslaTank]
-VehiclePositionString="in a Tesla Tank"
-VehicleNameString="Tesla Tank"
+VehiclePositionString="في دبّابة تسلا"
+VehicleNameString="دبّابة تسلا"
 
 [TS_Vehicle_HoverMRLS]
-VehiclePositionString="in a Hover MRLS"
-VehicleNameString="Hover MRLS"
-PT_Title="HOVER MRLS"
+VehiclePositionString="في حوّامة ن.ق.ص.م"
+VehicleNameString="حوّامة ن.ق.ص.م"
+PT_Title="حوّامة ن.ق.ص.م"
 
 [TS_Vehicle_Titan]
-VehiclePositionString="in a Titan"
-VehicleNameString="Titan"
-PT_Title="TITAN"
+VehiclePositionString="في تايتان"
+VehicleNameString="تايتان"
+PT_Title="تايتان"
 
 [TS_Vehicle_Wolverine]
-VehiclePositionString="in a Wolverine"
-VehicleNameString="Wolverine"
-PT_Title="WOLVERINE"
+VehiclePositionString="في ولفرين"
+VehicleNameString="ولفرين"
+PT_Title="ولفرين"
 
 [TS_Vehicle_TickTank]
-VehiclePositionString="in a Tick Tank"
-VehicleNameString="Tick Tank"
-PT_Title="TICK TANK"
+VehiclePositionString="في دبّابة تيك"
+VehicleNameString="دبّابة تيك"
+PT_Title="دبّابة تيك"
 
 [TS_Vehicle_ReconBike]
-VehiclePositionString="in a Recon Bike"
-VehicleNameString="Recon Bike"
-PT_Title="RECON BIKE"
+VehiclePositionString="في درّاجة الاستطلاع"
+VehicleNameString="درّاجة الاستطلاع"
+PT_Title="درّاجة الاستطلاع"
 
 [TS_Vehicle_Buggy]
-VehiclePositionString="in a Buggy"
-VehicleNameString="Buggy"
-PT_Title="BUGGY"
+VehiclePositionString="في عربة"
+VehicleNameString="عربة"
+PT_Title="عربة"
 
 [Rx_Vehicle_M2Bradley]
-VehiclePositionString="in a Light Tank"
-VehicleNameString="Light Tank"
-PT_Title="LIGHT TANK"
-PT_Description="<font size='10'>\n-75mm Cannon\n-Heavy Armour\n-Main Battle Tank\n-Driver + Passenger</font>"
+VehiclePositionString="في دبّابة خفيفة"
+VehicleNameString="دبّابة خفيفة"
+PT_Title="دبّابة خفيفة"
+PT_Description="<font size='10'>\n-75mm مدفع\n-درع ثقيل\n-دبّالة المعارك الرئيسيّة\n-سائق + راكبان</font>"
 
 //=====================================
 //	Vehicle Weapons
 //=====================================
 
 [Rx_Vehicle_Weapon]
-ItemName="Primary Weapon"
-PickupMessage="Primary Weapon"
+ItemName="سلاح أساسي"
+PickupMessage="سلاح أساسي"
 
 [Rx_Vehicle_A10_Weapon]
-ItemName="GAU-8/A Cannon"
-AltItemName="AGM-65 Missile"
-PickupMessage="A-10 Weapon"
+ItemName="GAU-8/A مدفع"
+AltItemName="AGM-65 صاروخ"
+PickupMessage="A-10 سلاح"
 
 [Rx_Vehicle_Apache_Weapon]
-ItemName="30mm Automatic Cannon"
-AltItemName="Hydra-70 Rocket"
-PickupMessage="Apache Weapon"
+ItemName="30mm مدفع أوتوماتيكي"
+AltItemName="صواريخ هايدرا-70"
+PickupMessage="سلاح أباتشي"
 
 [Rx_Vehicle_Orca_Weapon]
-ItemName="Hellfire Missile"
-AltItemName=".50 Cal Machine Gun"
-PickupMessage="Orca Weapon"
+ItemName="صاروخ نيران الجحيم"
+AltItemName=".50 الرشّاش الآلي كال"
+PickupMessage="سلاح أوركا"
 
 [Rx_Vehicle_APC_Nod_Weapon]
-ItemName="M134 Minigun"
-PickupMessage="APC Weapon"
+ItemName="M134 رشّاش"
+PickupMessage="سلاح ن.ج.م"
 
 [Rx_Vehicle_APC_GDI_Weapon]
-ItemName="M134 Minigun"
-PickupMessage="APC Weapon"
+ItemName="M134 رشّاش"
+PickupMessage="سلاح ن.ج.م"
 
 [Rx_Vehicle_Artillery_Weapon]
-ItemName="155MM Cannon"
-PickupMessage="Artillery Weapon"
+ItemName="155MM مدفع"
+PickupMessage="سلاح المدفعيّة"
 
 [Rx_Vehicle_Buggy_Weapon]
-ItemName=".50 Cal Machine Gun"
-PickupMessage="Buggy Weapon"
+ItemName=".50 الرشّاش الآلي كال"
+PickupMessage="سلاح العربة"
 
 [Rx_Vehicle_Chinook_Weapon]
-ItemName="Transport Helicopter"
-PickupMessage="Chinook Weapon"
+ItemName="مروحيّة ناقلة جنود"
+PickupMessage="سلاح تشينوك"
 
 [Rx_Vehicle_Chinook_Weapon_GDI_Left]
-ItemName="Gattling Gun"
-PickupMessage="Chinook Weapon"
+ItemName="مدفع رشّاش"
+PickupMessage="سلاح تشينوك"
 
 [Rx_Vehicle_Chinook_Weapon_GDI_Right]
-ItemName="Gattling Gun"
-PickupMessage="Chinook Weapon"
+ItemName="مدفع رشّاش"
+PickupMessage="سلاح تشينوك"
 
 [Rx_Vehicle_Chinook_Weapon_Nod_Left]
-ItemName="Gattling Gun"
-PickupMessage="Chinook Weapon"
+ItemName="مدفع رشّاش"
+PickupMessage="سلاح تشينوك"
 
 [Rx_Vehicle_Chinook_Weapon_Nod_Right]
-ItemName="Gattling Gun"
-PickupMessage="Chinook Weapon"
+ItemName="مدفع رشّاش"
+PickupMessage="سلاح تشينوك"
 
 [Rx_Defence_GunEmplacement_Weapon]
-ItemName="Gattling Gun"
-AltItemName="Auto Cannon"
-PickupMessage="Gun Emplacement"
+ItemName="مدفع رشّاش"
+AltItemName="مدفع أوتوماتيكي"
+PickupMessage="مدفع مرتكز"
 
 [Rx_Defence_RocketEmplacement_Weapon]
-ItemName="SWARM Launcher"
-AltItemName="Hellfire Missile"
-PickupMessage="Rocket Emplacement"
+ItemName="مطلق سوورم"
+AltItemName="صاروخ نيران الجحيم"
+PickupMessage="صاروخ مرتكز"
 
 [Rx_Vehicle_Humvee_Weapon]
-ItemName=".50 Cal Machine Gun"
-PickupMessage="Humvee Weapon"
+ItemName=".50 الرشّاش الآلي كال"
+PickupMessage="سلاح همفي"
 
 [Rx_Vehicle_LightTank_Weapon]
-ItemName="75MM Cannon"
-PickupMessage="Light Tank Weapon"
+ItemName="75MM مدفع"
+PickupMessage="سلاح دبّابة خفيفة"
 
 [Rx_Vehicle_MammothWeapon]
-ItemName="120MM Cannon"
-AltItemName="Tusk Missiles"
-PickupMessage="Mammoth Tank Weapon"
+ItemName="120MM مدفع"
+AltItemName="صواريخ النّاب"
+PickupMessage="سلاح دبّابة الماموث"
 
 [Rx_Vehicle_MediumTank_Weapon]
-ItemName="105MM Cannon"
-PickupMessage="Medium Tank Weapon"
+ItemName="105MM مدفع"
+PickupMessage="سلاح الدبّابة المتوسّطة"
 
 [Rx_Vehicle_MediumTank_Weapon_MultiWeap]
-ItemName="105MM Cannon"
-AltItemName="Coaxial MG"
-PickupMessage="Medium Tank Weapon"
+ItemName="105MM مدفع"
+AltItemName="رشّاش محوري"
+PickupMessage="سلاح الدبّابة المتوسّطة"
 
 [Rx_Vehicle_MRLS_Weapon]
-ItemName="M269 Missile"
-PickupMessage="MRLS Tank Weapon"
+ItemName="M269 صاروخ"
+PickupMessage="سلاح ن.ق.ص.م"
 
 [Rx_Vehicle_FlameTank_Weapon]
-ItemName="Flamethrowers"
-PickupMessage="Flame Tank Weapon"
+ItemName="قاذفات اللّهب"
+PickupMessage="سلاح دبّابة اللّهب"
 
 [Rx_Vehicle_StealthTank_Weapon]
-ItemName="TOW Missiles"
-PickupMessage="Stealth Tank Weapon"
+ItemName="صواريخ تاو"
+PickupMessage="سلاح الدّبّابة الخفيّة"
 
 [Rx_Vehicle_Harvester_Weapon]
-ItemName="Tiberium Harvester"
-PickupMessage="Harvester Weapon"
+ItemName="حصّادة التّايبيريوم"
+PickupMessage="سلاح الحصّادة"
 
 [Rx_Defence_GuardTower_Weapon]
-ItemName="Vulcan Cannon"
-PickupMessage="Guard Tower Weapon"
+ItemName="مدفع فولكان"
+PickupMessage="سلاح برج الحراسة"
 
 [Rx_Defence_Turret_Weapon]
-ItemName="105MM Cannon"
-PickupMessage="Turret Weapon"
+ItemName="105MM مدفع"
+PickupMessage="سلاح البرج المدفعي"
 
 [Rx_Defence_SAMSite_Weapon]
-ItemName="Surface-to-air Missile"
-PickupMessage="SAM Weapon"
+ItemName="صاروخ أرض-جو"
+PickupMessage="سلاح ص.أ.ج"
 
 [Rx_Defence_AATower_Weapon]
-ItemName="Anti-Air Missile"
-PickupMessage="Anti-Air Weapon"
+ItemName="صاروخ مضاض-للطّائرات"
+PickupMessage="سلاح مضاض-الطّائرات"
 
 [Rx_Vehicle_Hovercraft_GDI_Weapon]
-ItemName="Heavy Cannons"
-AltItemName="SWARM Launcher"
-PickupMessage="Hovercraft Weapon"
+ItemName="مدافع ثقيلة"
+AltItemName="مطلق سوورم"
+PickupMessage="سلاح الحوّامة"
 
 [Rx_Vehicle_Hovercraft_Nod_Weapon]
-ItemName="Heavy Cannons"
-AltItemName="SWARM Launcher"
-PickupMessage="Hovercraft Weapon"
+ItemName="مدافع ثقيلة"
+AltItemName="مطلق سوورم"
+PickupMessage="سلاح الحوّامة"
 
 [APB_Vehicle_TeslaTank_Weapon]
-ItemName="Tesla Coil"
-PickupMessage="Tesla Tank Weapon"
+ItemName="برج تسلا"
+PickupMessage="سلاح دبّابة تسلا"
 
 [TS_Vehicle_HoverMRLS_Weapon]
-ItemName="M269 Missile"
-PickupMessage="Hover MRLS Weapon"
+ItemName="M269 صاروخ"
+PickupMessage="سلاح حوّامة ن.ق.ص.م"
 
 [TS_Vehicle_Titan_Weapon]
-ItemName="120MM Cannon"
-PickupMessage="Titan Weapon"
+ItemName="120MM مدفع"
+PickupMessage="سلاح التّايتان"
 
 [TS_Vehicle_Wolverine_Weapon]
-ItemName="Vulcan Cannons"
-PickupMessage="Wolverine Weapon"
+ItemName="مدافع فولكان"
+PickupMessage="سلاح وولفرين"
 
 [TS_Vehicle_MMKII_Weapon]
-ItemName="Railgun"
-AltItemName="Tusk Missile"
-PickupMessage="Mammoth Mark II Weapon"
+ItemName="بندقيّة سكك"
+AltItemName="صاروخ النّاب"
+PickupMessage="سلاح الماموث م2"
 
 [TS_Vehicle_TickTank_Weapon]
-ItemName="90MM Cannons"
-AltItemName=".50 Cal Machine Gun"
-PickupMessage="Tick Tank Weapon"
+ItemName="90MM مدافع"
+AltItemName=".50 الرشّاش الآلي كال"
+PickupMessage="سلاح دبّابة تيك"
 
 [TS_Vehicle_ReconBike_Weapon]
-ItemName="Hydra-70 Rocket"
-PickupMessage="Recon Bike Weapon"
+ItemName="صواريخ هايدرا-70"
+PickupMessage="سلاح درّاجة الاستطلاع"
 
 [TS_Vehicle_Buggy_Weapon]
-ItemName="30mm Automatic Cannon"
-PickupMessage="Buggy Weapon"
+ItemName="30mm مدفع أوتوماتيكي"
+PickupMessage="سلاح العربة"
 
 [Rx_Vehicle_M2Bradley_Weapon]
-ItemName="22MM Cannon"
-AltItemName="TOW Rocket"
-PickupMessage="A-10 Weapon"
+ItemName="22MM مدفع"
+AltItemName="صاروخ تاو"
+PickupMessage="سلاح أ-10"
 
 
 //////////////////////
 //  Building Names  //
 //////////////////////
 [Rx_Building_AdvancedGuardTower_Internals]
-BuildingName = "Advanced Guard Tower"
+BuildingName = "برج الحراسة المتطوّر"
 
 [Rx_Building_AirTower_Internals]
-BuildingName = "Airstrip"
+BuildingName = "مهبط المركبات"
 
 [Rx_Building_Barracks_Internals]
-BuildingName = "Infantry Barracks"
+BuildingName = "ثكنة المشاة"
 
 [Rx_Building_HandOfNod_Internals]
-BuildingName = "Hand of Nod"
+BuildingName = "يد ناد"
 
 [Rx_Building_Obelisk_Internals]
-BuildingName = "Obelisk"
+BuildingName = "مسلّة"
 
 [Rx_Building_PowerPlant_Internals]
-BuildingName = "Power Plant"
+BuildingName = "محطّة الطّاقة"
 
 [Rx_Building_Refinery_Internals]
-BuildingName = "Refinery"
+BuildingName = "معمل التّكرير"
 
 [Rx_Building_Silo_Internals]
-BuildingName = "Silo"
+BuildingName = "صومعة"
 
 [Rx_Building_WeaponsFactory_Internals]
-BuildingName = "Weapons Factory"
+BuildingName = "مصنع الأسلحة"
 
 [Rx_CapturableMCT_Internals_Kismet]
-BuildingName = "Tech Building"
+BuildingName = "مبنى تكنولوجي"
 
 [Rx_Building_CommCentre_Internals]
-BuildingName = "Communications Center"
+BuildingName = "مركز الاتصالات"
 
 [Rx_CapturableMCT_MC_Internals]
-BuildingName = "Medical Center"
+BuildingName = "مركز طبّي"
 
 [Rx_CapturableMCT_Fort_Internals]
-BuildingName = "Fort"
+BuildingName = "حصن"
 
 [Rx_Building_MedicalCentre_Internals]
-BuildingName = "Medical Centre"
+BuildingName = "المركز الطّبي"
 
 [Rx_Building_RepairPad_Internals]
-BuildingName = "Repair Pad"
+BuildingName = "منصّة إصلاح"
 
 //=====================================
 //	Buildings
 //=====================================
 [Rx_Message_Buildings]
-BuildingBroadcastMessages[0]="`PlayerName` destroyed the `BuildingName`"
-BuildingBroadcastMessages[1]="`BuildingName` destroyed by `PlayerName`"
-BuildingBroadcastMessages[2]="`PlayerName` captured the `BuildingName`"
-BuildingBroadcastMessages[3]="`PlayerName` neutralized the `BuildingName`"
+BuildingBroadcastMessages[0]="`BuildingName` دمّر `PlayerName`"
+BuildingBroadcastMessages[1]="`PlayerName` دمّر من قبل `BuildingName`"
+BuildingBroadcastMessages[2]="`BuildingName` سيطر على `PlayerName`"
+BuildingBroadcastMessages[3]="`BuildingName` حيّد `PlayerName`"
 
 //=====================================
 //	Crates
 //=====================================
 [Rx_CratePickup]
-PickupMessages[0]="You stumbled upon a grenade, BOOOM!"
-PickupMessages[1]="Surprise! Ion Cannon Strike incoming!"
-PickupMessages[2]="By the way, Nuclear Missile Launch Detected. Bwahahaha!"
-PickupMessages[3]="You found `credsum` credits!"
-PickupMessages[4]="You found a new uniform!"
-PickupMessages[5]="You got a `vehname`!"
-PickupMessages[6]="You found an enemy uniform!"
-PickupMessages[7]="Your health and ammo has been restored!"
+PickupMessages[0]="!لقد تعثرت بقنبلة،بوووم"
+PickupMessages[1]="!مفاخئة!ضربة مدفع أيوني قادمة"
+PickupMessages[2]="بالمناسبة،اكتشاف اطلاق صاروخ نووي،هاهاهاها"
+PickupMessages[3]="!من النّقود `credsum` لقد وجدت"
+PickupMessages[4]="!لقد وجدت بدلة جديدة"
+PickupMessages[5]="!`vehname` لقد حصلت على"
+PickupMessages[6]="!لقد حصلت على بدلة للعدو"
+PickupMessages[7]="!لقد تم استرجاع صحّتك و ذخيرتك"
 
 [Rx_Message_Crates]
-PickupBroadcastMessages[0]= "`PlayerName` found a crate!"
-PickupBroadcastMessages[1]="`PlayerName` just got a death crate. Sucks to be you."
-PickupBroadcastMessages[2]="`PlayerName` got an Ion Cannon to the face. Ouch!"
-PickupBroadcastMessages[3]="`PlayerName` is green with nuclear radiation"
-PickupBroadcastMessages[4]="`PlayerName` found a money crate!"
-PickupBroadcastMessages[5]="`PlayerName` got a new character!"
-PickupBroadcastMessages[6]="`PlayerName` got a new vehicle!"
-PickupBroadcastMessages[7]="Watch out, an enemy player picked up a spy crate!"
-PickupBroadcastMessages[8]="`PlayerName` picked up a spy crate!"
-PickupBroadcastMessages[9]="`PlayerName` picked up a refill crate."
-PickupBroadcastMessages[10]="`PlayerName` picked up a suicide crate."
-PickupBroadcastMessages[11]="`PlayerName` picked up a speed upgrade crate."
-PickupBroadcastMessages[12]="`PlayerName` was abducted by aliens."
-PickupBroadcastMessages[13]="`PlayerName` won't last more than 30 seconds."
-PickupBroadcastMessages[14]="`PlayerName` discovered weaponry from the future!"
-PickupBroadcastMessages[15]="`PlayerName` discovered weaponry from Kane's past!"
-PickupBroadcastMessages[16]="`PlayerName` picked up a veterancy crate!"
-PickupBroadcastMessages[17]="`PlayerName` picked up a damage resistance crate!" 
-PickupBroadcastMessages[18]="`PlayerName` discovered CLASSIC weaponry!" 
-PickupBroadcastMessages[19]="`PlayerName` found an EPIC Character crate!" 
+PickupBroadcastMessages[0]= "!وجد صندوق `PlayerName`"
+PickupBroadcastMessages[1]=".وجد صندوق موت،مؤسف أن تكون أنت `PlayerName`"
+PickupBroadcastMessages[2]="حصل على مدفع أيوني في وجهه.أخخخ `PlayerName`"
+PickupBroadcastMessages[3]="هو أخضر مع الاشعاعات النّوويّة `PlayerName`"
+PickupBroadcastMessages[4]="!وجد صندوق مال `PlayerName`"
+PickupBroadcastMessages[5]="!حصل على شخصيّة جديدة `PlayerName`"
+PickupBroadcastMessages[6]="!حصل على مركبة جديدة `PlayerName`"
+PickupBroadcastMessages[7]="!احذر،لقد وجد أحد الأعداء صندوق جاسوس"
+PickupBroadcastMessages[8]="!وجد صندوق جاسوس `PlayerName`"
+PickupBroadcastMessages[9]=".وجد صندوق اعادة تعبئة `PlayerName`"
+PickupBroadcastMessages[10]=".وجد صندوق انتحار `PlayerName`"
+PickupBroadcastMessages[11]=".وجد صندوق زيادة السرعة `PlayerName`"
+PickupBroadcastMessages[12]=".تم اختطافه من قبل المخلوقات الفضائيّة `PlayerName`"
+PickupBroadcastMessages[13]=".لن يصمد أكثر من ثلاثين ثانية `PlayerName`"
+PickupBroadcastMessages[14]="!اكتشف أسلحة من المستقبل `PlayerName`"
+PickupBroadcastMessages[15]="اكتشف أسلحة من ماضي كاين `PlayerName`"
+PickupBroadcastMessages[16]="!حصل على صندوق خبرة `PlayerName`"
+PickupBroadcastMessages[17]="!حصل على صندوق تقليل الضّرر `PlayerName`" 
+PickupBroadcastMessages[18]="!اكتشف صندوق أسلحة كلاسيكيّة `PlayerName`" 
+PickupBroadcastMessages[19]="!وجد صندوق شخصيّة ملحميّة `PlayerName`" 
 
 [Rx_CrateType_Money]
-PickupMessage = "You found `credsum` credits!"
+PickupMessage = "!من النّقود `credsum` لقد وجدت"
 
 [Rx_CrateType_Refill]
-PickupMessage = "Your health and ammo has been restored!"
+PickupMessage = "!لقد تمّ استرجاع صحّتك و ذخيرتك"
 
 [Rx_CrateType_Spy]
-PickupMessage = "You found an enemy uniform!"
+PickupMessage = "!لقد وجدت بدلة للعدو"
 
 [Rx_CrateType_Vehicle]
-PickupMessage = "You got a `vehname`!"
+PickupMessage = "!`vehname`لقد حصلت على"
 
 [Rx_CrateType_Character]
-PickupMessage = "You found a new uniform!"
+PickupMessage = "!لقد وجدت بدلة جديدة"
 
 [Rx_CrateType_Suicide]
-PickupMessage = "You found the answer to the universe inside the box, and see no reason to continue living."
+PickupMessage = "!لقد وجدت الاجابة عن الكون داخل الصّندوق،و لم تعد ترى أي داع لأن تعيش"
 
 [Rx_CrateType_TimeBomb]
-PickupMessage = "There is a bomb on your head. You have 30 seconds to live."
+PickupMessage = ".هناك قنبلة على رأسك.لديك 30 ثانية لتعيش"
 
 [Rx_CrateType_Nuke]
-PickupMessage = "By the way, Nuclear Missile Launch Detected. Bwahahaha!"
+PickupMessage = "بالمناسبة،اكتشاف اطلاق صاروخ نووي،هاهاهاها"
 
 [Rx_CrateType_Speed]
-PickupMessage = "Your character's speed has been upgraded by `increasepct`%!"
+PickupMessage = "!`increasepct`% تم زيادة سرعة شخصيّتك ب"
 
 [Rx_CrateType_Abduction]
-PickupMessage = "You have been abducted by the Scrin!"
+PickupMessage = "!تم اختطافك من السكرين"
 
 [Rx_CrateType_TSVehicle]
-PickupMessage = "A hole in space time has opened! You command the future."
+PickupMessage = ".ظهر ثقب في الزمكان!أنت تتحكم بالمستقبل"
 
 [Rx_CrateType_RAVehicle]
-PickupMessage = "A rougue chrono-shift seems to be going on! You control the past."
+PickupMessage = ".تحوّل زماني غريب يحصل!أنت تتحكّم بالماضي"
 
 [Rx_CrateType_Veterancy]
-PickupMessage = "You've learned just a little more in the art of war."
+PickupMessage = ".لقد تعلّمت قليلا في فنّ الحرب"
 
 [Rx_CrateType_DamageResistance]
 PickupMessage = "You picked up a DAMAGE RESISTANCE crate"
