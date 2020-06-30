@@ -916,30 +916,30 @@ PickupMessage = ".تحوّل زماني غريب يحصل!أنت تتحكّم ب
 PickupMessage = ".لقد تعلّمت قليلا في فنّ الحرب"
 
 [Rx_CrateType_DamageResistance]
-PickupMessage = "You picked up a DAMAGE RESISTANCE crate"
+PickupMessage = "لقد حصلت على صندوق لتخفيف الضّرر"
 
 [Rx_CrateType_ClassicVehicle]
-PickupMessage = "Never forget the CLASSICS"
+PickupMessage = "لا تنسى الكلاسيكيّات أبدا"
 
 [Rx_CrateType_EpicCharacter]
-PickupMessage = "You've found an EPIC Character!"
+PickupMessage = "!لقد وجدت صندوك شخصيّة ملحميّة"
 
 [Rx_Message_Vehicle]
-VehicleMessages[0]="`VehicleClass` bound. Press [`LockKey`] to toggle lock on driver seat. Hold [`LockKey`] to unbind."
-VehicleMessages[1]="`VehicleClass` auto-bound. Press [`LockKey`] to toggle lock on driver seat. Hold [`LockKey`] to unbind."
-VehicleMessages[2]="`VehicleClass` unbound."
+VehicleMessages[0]=".لالغاء الحجز [`LockKey`] لقفل أو فتح مقعد السّائق.استمر بضغط [`LockKey`] محجوزة.اضغط  `VehicleClass`"
+VehicleMessages[1]=".لالغاء الحجز [`LockKey`] لقفل أو فتح مقعد السّائق.استمر بضغط [`LockKey`] محجوزة تلقائيّا.اضغط `VehicleClass`"
+VehicleMessages[2]=".غير محجوزة `VehicleClass`"
 
-VehicleMessages[3]="This vehicle is not bound, hold [`LockKey`] to bind to it."
-VehicleMessages[4]="This vehicle is not bound, hold [`LockKey`] to replace your existing `VehicleClass` bind with this vehicle."
-VehicleMessages[5]="The previous owner has unbound this vehicle. Hold [`LockKey`] to bind it."
-VehicleMessages[6]="Can not bind vehicle, it is already bound to `OwnerName`."
+VehicleMessages[3]=".لحجزها [`LockKey`] هذه المركبة غير محجوزة،استمر بضغط "
+VehicleMessages[4]=".بها `VehicleClass` لتغيير الحجز الحالي على [`LockKey`] هذه المركبة غير محجوزة،استمر بضغط"
+VehicleMessages[5]=".لحجزها [`LockKey`] المالك السّابق ألغى الحجز عن هذه المركبة،اسنمر بضغط"
+VehicleMessages[6]=".`OwnerName` لا يمكنك حجز المركبة،لأنها محجوزة مسبقا من قبل"
 
-VehicleMessages[7]="`VehicleClass` driver seat Locked."
-VehicleMessages[8]="`VehicleClass` driver seat Unlocked."
+VehicleMessages[7]=".مقفل `VehicleClass` مقعد السّائق في"
+VehicleMessages[8]=".فتح `VehicleClass`مقعد السّائق في"
 
-VehicleMessages[9]="Driver seat is locked by `OwnerName`."
-VehicleMessages[10]="You can't enter the Vehicle. Buyer '`OwnerName`' has exclusive access for `IntegerValue` more seconds."
-VehicleMessages[11]="You can't enter the Vehicle. `OwnerTeam` has exclusive access for `IntegerValue` more seconds."
+VehicleMessages[9]="`OwnerName` مقعد السّائق مقفل من قبل"
+VehicleMessages[10]=".من الثواني `IntegerValue` لديه الحق الحصري لمدّة '`OwnerName`' لا يمكنك دخول المركبة.المشتري"
+VehicleMessages[11]=".من الثواني `IntegerValue` لديه الحق الحصري لمدّة `OwnerTeam` .لا يمكنك دخول المركبة"
 
 VehicleMessages[12]="`OwnerName`'s `VehicleClass` has been stolen by the enemy!"
 VehicleMessages[13]="`OtherName` has entered the driver seat of your `VehicleClass`."
